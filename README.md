@@ -23,7 +23,7 @@ Agora Video SDK supports iOS / Android / Windows / macOS etc. You can find demos
 
 First, create a developer account at Agora.io, and obtain an App ID.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jamfang/Agora-Web-Tutorial-1to1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/marion808/Agora-Web-Tutorial-1to1)
 
 Next, simply click the link above to deploy on Heroku, or host the demo app on your own web server, and put in your AppID.
 
